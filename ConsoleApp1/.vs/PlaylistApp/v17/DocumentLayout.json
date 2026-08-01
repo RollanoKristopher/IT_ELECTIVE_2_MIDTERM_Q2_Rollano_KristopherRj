@@ -78,15 +78,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlaylistApp",
+              "Title": "PlaylistApp.csproj",
               "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\Clone\\IT_ELECTIVE_2_MIDTERM_Q2_Rollano_KristopherRj\\ConsoleApp1\\ConsoleApp1\\PlaylistApp.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\PlaylistApp.csproj",
               "ToolTip": "C:\\Users\\STUDENT\\Desktop\\Clone\\IT_ELECTIVE_2_MIDTERM_Q2_Rollano_KristopherRj\\ConsoleApp1\\ConsoleApp1\\PlaylistApp.csproj",
               "RelativeToolTip": "ConsoleApp1\\PlaylistApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-01T00:14:19.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-01T00:14:19.785Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "ConsoleApp1\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-31T23:54:20.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T23:54:20.73Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "ConsoleApp1\\Models\\Entities\\Playlist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:45:13.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T23:45:13.647Z"
             },
             {
               "$type": "Document",
@@ -124,8 +121,7 @@
               "RelativeToolTip": "ConsoleApp1\\Models\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:42:41.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T23:42:41.619Z"
             },
             {
               "$type": "Document",
@@ -137,8 +133,7 @@
               "RelativeToolTip": "ConsoleApp1\\Models\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:41:50.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T23:41:50.741Z"
             },
             {
               "$type": "Document",
@@ -148,7 +143,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\STUDENT\\Desktop\\Clone\\IT_ELECTIVE_2_MIDTERM_Q2_Rollano_KristopherRj\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-31T23:43:30.598Z",
               "EditorCaption": ""
@@ -163,8 +158,7 @@
               "RelativeToolTip": "ConsoleApp1\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:43:10.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T23:43:10.926Z"
             },
             {
               "$type": "Document",
@@ -176,8 +170,7 @@
               "RelativeToolTip": "ConsoleApp1\\Data\\MockDatabase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:46:28.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T23:46:28.827Z"
             },
             {
               "$type": "Document",
@@ -189,8 +182,7 @@
               "RelativeToolTip": "ConsoleApp1\\Controllers\\PlaylistController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:59:11.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T23:59:11.542Z"
             },
             {
               "$type": "Document",
@@ -202,8 +194,7 @@
               "RelativeToolTip": "ConsoleApp1\\Models\\DTOs\\CreatePlaylistDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:56:46.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T23:56:46.738Z"
             },
             {
               "$type": "Document",
@@ -215,8 +206,7 @@
               "RelativeToolTip": "ConsoleApp1\\Views\\Playlist\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-01T00:01:32.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-01T00:01:32.795Z"
             },
             {
               "$type": "Document",
@@ -228,8 +218,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ViewState": "AgIAAJYAAAAAAAAAAAAgwKoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-07-31T23:43:42.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T23:43:42.875Z"
             }
           ]
         }
